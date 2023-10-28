@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ControleFluxo {
+public class Contador {
     public static void main(String[] args) throws Exception {
         try {
         Scanner scanner =  new Scanner(System.in);
